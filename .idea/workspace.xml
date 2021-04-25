@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b13b94d8-0824-4f21-8cf4-d12d68f61e3d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ClosuresJS.js" beforeDir="false" afterPath="$PROJECT_DIR$/ClosuresJS.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/This_Call_Bind_Apply.js" beforeDir="false" afterPath="$PROJECT_DIR$/This_Call_Bind_Apply.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +29,16 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.This_Call_Bind_Apply.js">
     <configuration name="ClosuresJS.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ClosuresJS.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="This_Call_Bind_Apply.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/This_Call_Bind_Apply.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.This_Call_Bind_Apply.js" />
         <item itemvalue="Node.js.ClosuresJS.js" />
       </list>
     </recent_temporary>
@@ -47,6 +52,8 @@
       <option name="presentableId" value="Default" />
       <updated>1619370734233</updated>
       <workItem from="1619370737874" duration="3192000" />
+      <workItem from="1619374483912" duration="13000" />
+      <workItem from="1619374502988" duration="3030000" />
     </task>
     <servers />
   </component>
